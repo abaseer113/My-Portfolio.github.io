@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.data{
+    height: 100vh;
+    width: 100%;
+    background-color: #eff4fd;
+    border: 2px solid black;
+}
+
+.data h2 a{
+    padding-left: 50px;
+    text-decoration: none;
+    color: black;
+    opacity: 0.8;
+}
+
+
+
